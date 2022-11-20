@@ -1,0 +1,55 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    header{
+
+    }
+    body{
+        background-color: rgb(108, 153, 226);
+        font-style: italic;
+        font: size 25px;; 
+       }
+
+     main{
+        margin:0 auto;
+      
+    } 
+    .carrusel{
+        padding: 12rem;
+        size: 450px;
+    }
+    nav ul{
+    padding: 7rem;
+    list-style: none;
+    font-size: 0;
+
+    position: relative;
+    display: inline;
+   }
+   nav ul li{
+
+    display: inline-block;
+    position: relative;
+    font-size: 25px;
+    padding: 30px;
+   }
+   nav ul li:hover{
+   background-color: blue;
+}
+ form{
+    padding:1rem;
+    margin-left: 20rem;
+    font-style: italic;
+
+ }  
+ footer{
+    font-style:italic;
+    padding:10rem;
+ }
+ .logos{
+    margin-left: 115px;
+    
+ }
+   
+
